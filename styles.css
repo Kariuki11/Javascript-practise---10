@@ -17,7 +17,8 @@ body{
     padding: 20px;
     font-size: 5rem;
     text-align: right;
-    background-color: black
+    background-color: hsl(0, 0%, 20%)
+    color white;
 }
 #keys{
     display: grid;
