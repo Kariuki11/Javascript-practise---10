@@ -7,9 +7,9 @@ function appendToDisplay(Input){
 }
 
 function clearDisplay(){
-
+    display.value = "";
 }
 
 function calculate(){
-
+    display.value = eval(display.value)
 }
